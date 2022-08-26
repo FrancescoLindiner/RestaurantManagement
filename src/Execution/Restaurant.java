@@ -4,7 +4,6 @@ import java.util.List;
 
 import javax.swing.ImageIcon;
 import javax.swing.JOptionPane;
-
 import Dish.Dish;
 import Dish.DishDaoImpl;
 import Order.Order;
@@ -18,8 +17,23 @@ import SingleOrder.OrderSingleDAOImpl;
 public class Restaurant {
 
     public static void main(String[] args) {
+        
+            String usr;
+            String pwd;
+            boolean isCorrect=false;
+            do{
+            usr = JOptionPane.showInputDialog(null, "Enter User Name");
 
-        ImageIcon icon = new ImageIcon("C:\\Users\\frali\\Desktop\\GestioneRistorante\\logo.png");
+            pwd = JOptionPane.showInputDialog(null, "Enter Passwors");
+
+            if (usr.equals("root") && pwd.equals("root")) {
+                isCorrect=true;
+            } else {
+                JOptionPane.showMessageDialog(null, "User name or password incorrect");
+                isCorrect=false;
+            }
+        }while(!isCorrect);
+        ImageIcon icon = new ImageIcon("C:\\Users\\frali\\Desktop\\GestioneRistorante\\image\\logo.png");
 
         int choose = -1;
         OrderDAOImpl orderDAOImpl = new OrderDAOImpl();
