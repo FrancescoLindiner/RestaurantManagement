@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "C:\\Users\\frali\\Desktop\\GestioneRistorante\\mysql-connector-java-5.1.25.jar",
+        "mysql-connector-java-5.1.25.jar",
+        "mysql-connector-java-8.0.26.jar"
+    ],
+    "java.dependency.packagePresentation": "hierarchical"
+}
