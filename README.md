@@ -27,4 +27,12 @@ There is no standard authentication has been added yet
 ### Screenshot
 The gui was built using JoptionPane
 
-<img src="/image/home.png" alt="home" width="700"/>
+Home
+<img src="/image/home.png" alt="home" width="800"/>
+Other option
+<img src="/image/home2.png" alt="home2" width="800"/>
+Insertion
+<img src="/image/insert.png" alt="insert" width="800"/>
+Dish list
+<img src="/image/dish.png" alt="dish" width="800"/>
+
