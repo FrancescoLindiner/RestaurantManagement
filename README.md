@@ -5,5 +5,24 @@
 A simple restaurant management system
 
 ## Featurs
-- d
-- d
+- Insert an order
+- Delete an order or all orders
+- Modify an order
+- View all orders or a single order for a table
+- Total sum of the people at the restaurant
+- Total bill of all tables
+- Insert a dish
+- Delete a dish
+- View all dishes
+
+## Authentication
+There is no standard authentication has been added yet
+**Username**: root
+**Password**: root
+
+## Built with
+- Java
+- MySQL
+
+### Screenshot
+The gui was built using JoptionPane
