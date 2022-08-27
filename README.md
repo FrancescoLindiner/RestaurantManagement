@@ -32,7 +32,7 @@ The gui was built using JoptionPane
 Home
 
 <img src="/image/home.png" alt="home" width="800"/>
-Other option
+Other options
 
 <img src="/image/home2.png" alt="home2" width="800"/>
 
