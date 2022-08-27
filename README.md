@@ -26,7 +26,7 @@ There is no standard authentication has been added yet
 - Java
 - MySQL
 
-### Screenshot
+### Screenshots
 The gui was built using JoptionPane
 
 Home
