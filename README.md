@@ -32,13 +32,13 @@ Home
 <img src="/image/home.png" alt="home" width="800"/>
 Other option
 
-<img src="/image/home2.png" alt="home2" width="700"/>
+<img src="/image/home2.png" alt="home2" width="800"/>
 
 Insertion
 
-<img src="/image/insert.png" alt="insert" width="400"/>
+<img src="/image/insert.png" alt="insert" width="300"/>
 
 Dish list
 
-<img src="/image/dish.png" alt="dish" width="400"/>
+<img src="/image/dish.png" alt="dish" width="300"/>
 
