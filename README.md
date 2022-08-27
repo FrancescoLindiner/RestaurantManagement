@@ -27,4 +27,4 @@ There is no standard authentication has been added yet
 ### Screenshot
 The gui was built using JoptionPane
 
-<img src="/image/home.png" alt="home" width="500"/>
+<img src="/image/home.png" alt="home" width="700"/>
