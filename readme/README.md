@@ -1,18 +1,28 @@
-## Getting Started
+![Version](https://img.shields.io/badge/Version-0.1.0-brightgreen)
+![Language](https://img.shields.io/badge/Language-Java-blue)
+![Language](https://img.shields.io/badge/Language-SQL-purple)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A simple restaurant management system
 
-## Folder Structure
+## Featurs
+- Insert an order
+- Delete an order or all orders
+- Modify an order
+- View all orders or a single order for a table
+- Total sum of the people at the restaurant
+- Total bill of all tables
+- Insert a dish
+- Delete a dish
+- View all dishes
 
-The workspace contains two folders by default, where:
+## Authentication
+There is no standard authentication has been added yet
+**Username**: root
+**Password**: root
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Built with
+- Java
+- MySQL
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+### Screenshot
+The gui was built using JoptionPane
