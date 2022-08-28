@@ -6,7 +6,7 @@
 
 A simple restaurant management system
 
-## Featurs
+## Features
 - Insert an order
 - Delete an order or all orders
 - Modify an order
