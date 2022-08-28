@@ -1,3 +1,5 @@
+# Restaurant management
+
 ![Version](https://img.shields.io/badge/Version-0.1.0-brightgreen)
 ![Language](https://img.shields.io/badge/Language-Java-blue)
 ![Language](https://img.shields.io/badge/Language-SQL-purple)
@@ -24,5 +26,20 @@ There is no standard authentication has been added yet
 - Java
 - MySQL
 
-### Screenshot
+### Screenshots
 The gui was built using JoptionPane
+
+Home
+
+<img src="/image/home.png" alt="home" width="800"/>
+Other options
+
+<img src="/image/home2.png" alt="home2" width="800"/>
+
+Insertion
+
+<img src="/image/insert.png" alt="insert" width="300"/>
+
+Dish list
+
+<img src="/image/dish.png" alt="dish" width="300"/>
