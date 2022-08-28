@@ -42,4 +42,9 @@ Insertion
 
 Dish list
 
+<<<<<<< HEAD
 <img src="/image/dish.png" alt="dish" width="300"/>
+=======
+<img src="/image/dish.png" alt="dish" width="300"/>
+
+>>>>>>> 42c317e17f3ca48c9318955bbd88c4f23cf05a58
